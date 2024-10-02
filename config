@@ -19,7 +19,15 @@
     "portal_vod": "no",
     "portal_series": "no"
   },
-  "urls": "KFcDHAIYFzRhc3I8IkFEQAkfHxEdGx0/GgMIRwIRLDE8Pno1WlkcV19HGx4DEjcGTVldXlZoc2YDITRZXV5WaHM8IjglfkJMXEQbXGlzZzEkPRcYEVFRUx4HHAYhGUBWSwURLDM6ant5VERaAwEeGgYYASYbTA8GAEo5MyBje3QZFl9cV0UHHk5JcR0WGBkeX3dsJT8zJRtbR0dCRRtcDxw+WgMcAF5Kem9rMTciXEJSR1lfGy0ZAT9XWE4HAkd0YTo/Nz1QQGxGQlxXSE4dPFdOTgwdAgc2Ozx2bBdaXBEcEhoEHB0MABAAS1dHISY6cik=",
+  "urls": {
+    "apkurl": "https://download.ottrun.com/downloads/543300/SublimeXCIPTV-7.0-v910.apk",
+    "backupurl": "https://raw.githubusercontent.com/bagayboss509/xcv710custumers/refs/heads/main/config?",
+    "logurl": "https://raw.githubusercontent.com/bagayboss509/xcv710custumers/refs/heads/main/config?",
+    "activation_url": "no",
+    "socket_url": "no",
+    "epg_url": "no",
+    "ovpn_url": "yes"
+  },
   "support": {
     "support_email": "For Help or reporting issues, Please contact your seller!!",
     "support_phone": "Please always remember if there is an issue with TV Series, Report what season and Episode"
